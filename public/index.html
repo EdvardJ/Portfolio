@@ -4,7 +4,9 @@
     <!-- head content skipped -->
   </head>
   <body>
-
+<!-- To send over any submitted form data to Netlify, Netlify Forms needs to recognize a form as static HTML.
+   Because our React app is controlled by JavaScript and doesn't consist of plain HTML, 
+   we need to add a hidden form to our index.html file in the public folder. -->
   <form name="contact" netlify netlify-honeypot="bot-field" hidden>
     <input type="text" name="name" />
     <input type="email" name="email" />

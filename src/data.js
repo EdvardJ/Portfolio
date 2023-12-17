@@ -5,7 +5,7 @@ export const projects = [
     description:
       "It's a ecommerce webshop",
     image: "./chrome-capture-2023-10-14.gif",
-    link: "https://github.com/EdvardJ/Estore",
+    link: "https://estoreshop.info/",
   },
   {
     title: "React Tracks",
@@ -33,7 +33,7 @@ export const projects = [
   },
 ];
 
-/*export const testimonials = [
+export const testimonials = [
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
@@ -49,12 +49,13 @@ export const projects = [
     company: "Dooble.io",
   },
 ];
-*/
+
 export const skills = [
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "React.js",
+  "Python",
+  "Node.js",
+  "Django",
+  "Vue.js",
+  "Office(365)"
 ];
