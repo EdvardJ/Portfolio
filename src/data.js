@@ -3,7 +3,7 @@ export const projects = [
     title: "eStore",
     subtitle: "Django and Vue.js",
     description:
-      "It's a ecommerce webshop",
+      "It's a ecommerce webshop, frontend is made with Vue.js and Bulma css-library. Backend and adminboard use Django",
     image: "./chrome-capture-2023-10-14.gif",
     link: "https://estoreshop.info/",
   },
