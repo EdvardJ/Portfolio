@@ -23,7 +23,7 @@ export default function Navbar() {
         </nav>
         <a
           href="#contact"
-          className="animate-pulse inline-flex items-center bg-white border-0 py-1 px-3 focus:outline-none hover:bg-green-400 rounded text-black mt-4 md:mt-0">
+          className="animate-pulse inline-flex items-center bg-yellow-300 border-0 py-1 px-3 focus:outline-none hover:bg-green-400 rounded text-black mt-4 md:mt-0">
           Hire Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>
